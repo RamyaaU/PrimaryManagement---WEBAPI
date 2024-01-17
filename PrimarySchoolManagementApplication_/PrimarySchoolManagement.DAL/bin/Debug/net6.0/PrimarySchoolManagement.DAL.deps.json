@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PrimarySchoolManagement.DAL/1.0.0": {
+        "dependencies": {
+          "PrimarySchoolManagement.Data": "1.0.0"
+        },
+        "runtime": {
+          "PrimarySchoolManagement.DAL.dll": {}
+        }
+      },
+      "PrimarySchoolManagement.Data/1.0.0": {
+        "runtime": {
+          "PrimarySchoolManagement.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimarySchoolManagement.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrimarySchoolManagement.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagementTests1\\PrimarySchoolManagementTests1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.BLL\\PrimarySchoolManagement.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.BLL\\PrimarySchoolManagement.BLL.csproj",
+        "projectName": "PrimarySchoolManagement.BLL",
+        "projectPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.BLL\\PrimarySchoolManagement.BLL.csproj",
+        "packagesPath": "C:\\Users\\ramyashree.u\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ramyashree.u\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.DAL\\PrimarySchoolManagement.DAL.csproj": {
+                "projectPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.DAL\\PrimarySchoolManagement.DAL.csproj"
+              },
+              "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.Data\\PrimarySchoolManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.Data\\PrimarySchoolManagement.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.DAL\\PrimarySchoolManagement.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.DAL\\PrimarySchoolManagement.DAL.csproj",
+        "projectName": "PrimarySchoolManagement.DAL",
+        "projectPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.DAL\\PrimarySchoolManagement.DAL.csproj",
+        "packagesPath": "C:\\Users\\ramyashree.u\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ramyashree.u\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.Data\\PrimarySchoolManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.Data\\PrimarySchoolManagement.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.Data\\PrimarySchoolManagement.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.Data\\PrimarySchoolManagement.Data.csproj",
+        "projectName": "PrimarySchoolManagement.Data",
+        "projectPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.Data\\PrimarySchoolManagement.Data.csproj",
+        "packagesPath": "C:\\Users\\ramyashree.u\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ramyashree.u\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagementApplication\\PrimarySchoolManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagementApplication\\PrimarySchoolManagement.csproj",
+        "projectName": "PrimarySchoolManagement",
+        "projectPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagementApplication\\PrimarySchoolManagement.csproj",
+        "packagesPath": "C:\\Users\\ramyashree.u\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagementApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ramyashree.u\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.BLL\\PrimarySchoolManagement.BLL.csproj": {
+                "projectPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagement.BLL\\PrimarySchoolManagement.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagementTests1\\PrimarySchoolManagementTests1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagementTests1\\PrimarySchoolManagementTests1.csproj",
+        "projectName": "PrimarySchoolManagementTests1",
+        "projectPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagementTests1\\PrimarySchoolManagementTests1.csproj",
+        "packagesPath": "C:\\Users\\ramyashree.u\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagementTests1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ramyashree.u\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagementApplication\\PrimarySchoolManagement.csproj": {
+                "projectPath": "C:\\Users\\ramyashree.u\\source\\repos\\PrimarySchoolManagementApplication_\\PrimarySchoolManagementApplication\\PrimarySchoolManagement.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
